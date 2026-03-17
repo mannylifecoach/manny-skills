@@ -1,6 +1,6 @@
 ---
 description: Generate tests for selected code
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 Generate comprehensive tests for the selected code or recent changes:

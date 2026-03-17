@@ -1,6 +1,6 @@
 ---
 description: Review code for bugs, security, and performance
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 Review the code I've selected or the recent changes for:
