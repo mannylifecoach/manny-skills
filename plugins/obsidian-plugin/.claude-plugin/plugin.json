@@ -1,0 +1,5 @@
+{
+  "name": "obsidian-plugin",
+  "description": "Interact with your Obsidian vault via the Local REST API — create, read, search, delete notes, manage Kanban boards, and more.",
+  "version": "1.0.0"
+}

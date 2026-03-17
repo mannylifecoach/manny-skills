@@ -28,6 +28,11 @@
       "name": "refactor-plugin",
       "source": "./plugins/refactor-plugin",
       "description": "Adds a /refactor skill for refactoring suggestions"
+    },
+    {
+      "name": "obsidian-plugin",
+      "source": "./plugins/obsidian-plugin",
+      "description": "Interact with your Obsidian vault — create, read, search, delete notes, manage Kanban boards, and more"
     }
   ]
 }
