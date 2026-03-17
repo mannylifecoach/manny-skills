@@ -1,0 +1,5 @@
+{
+  "name": "explain-plugin",
+  "description": "Adds an /explain skill to break down code in plain language",
+  "version": "1.0.0"
+}

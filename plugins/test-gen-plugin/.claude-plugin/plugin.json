@@ -1,0 +1,5 @@
+{
+  "name": "test-gen-plugin",
+  "description": "Adds a /test-gen skill to generate tests for your code",
+  "version": "1.0.0"
+}

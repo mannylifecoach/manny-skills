@@ -1,0 +1,33 @@
+{
+  "name": "manny-skills",
+  "owner": {
+    "name": "mannylifecoach"
+  },
+  "metadata": {
+    "description": "A curated set of developer productivity skills",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "quality-review-plugin",
+      "source": "./plugins/quality-review-plugin",
+      "description": "Adds a /quality-review skill for quick code reviews"
+    },
+    {
+      "name": "test-gen-plugin",
+      "source": "./plugins/test-gen-plugin",
+      "description": "Adds a /test-gen skill to generate tests for your code"
+    },
+    {
+      "name": "explain-plugin",
+      "source": "./plugins/explain-plugin",
+      "description": "Adds an /explain skill to break down code in plain language"
+    },
+    {
+      "name": "refactor-plugin",
+      "source": "./plugins/refactor-plugin",
+      "description": "Adds a /refactor skill for refactoring suggestions"
+    }
+  ]
+}
